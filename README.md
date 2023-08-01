@@ -1,4 +1,1 @@
-
-## Authors
-Denis Wachira - **deniswachira77@gmail.com**
-Kelvin Comba - **kelchospense88@gmail.com**
+#Authors: Freshia Njoki --fnjokimacharia@gmail.com
